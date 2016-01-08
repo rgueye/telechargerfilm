@@ -2,10 +2,11 @@
     <h1><?= ucfirst($site_data[PAGE_ID]); ?></h1>
     <?php require_once '_login_out_form.php'; ?>
     <?php require_once '_main_menu.php'; ?>
-    <p><?php echo "<a href='" .$link_adress. "'>Accueil</a>"; ?> '</p>'
-    <p><?php echo "<a href='" .$link_adress. "'>Contact</a>"; ?> '</p>'
-    <p><?php echo "<a href='" .$link_adress. "'>Nos films</a>"; ?> '</p>'
-    <p><?php echo "<a href='" .$link_adress. "'>Inscription</a>"; ?> '</p>'
+<!--    corriger pour tomber dans le url internet quand il sera sur le domaine et en place -->
+    <p><?php echo "<a href='" .LOCAL_URL.'/index.php'. "'>Accueil</a>"; ?> </p>
+    <p><?php echo "<a href='" .LOCAL_URL.'/contact.php'. "'>Contact</a>"; ?> </p>
+    <p><?php echo "<a href='" .LOCAL_URL.'/dashboard.php'."'>Nos films</a>"; ?> </p>
+    <p><?php echo "<a href='" .LOCAL_URL.'/inscription.php'. "'>Inscription</a>"; ?> </p>
 
 </div>
 
