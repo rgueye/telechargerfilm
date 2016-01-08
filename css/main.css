@@ -24,10 +24,10 @@ body{
     border-style: solid;
     border-color: whitesmoke;
 }
-/*#logout{*/
-    /*text-align: right;*/
+#logout{
+    text-align: right;
 
-/*}*/
+}
 h1{
     display: inline-block;
     border: groove;

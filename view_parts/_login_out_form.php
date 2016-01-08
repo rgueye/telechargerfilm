@@ -38,7 +38,8 @@ if (array_key_exists('dologout', $_POST)) {
         <input type="password" name="password" id="password" />
         <input type="submit" name="dologin" id="dologin" value="Entrer"/>
     </form>
-<?php } else { //Si l'utilisateur est connecté ?>
+<?php } else { //Si l'utilisateur est connecté { ?>
+    <p style="color: green">Connexion réussie! Bienvenue Dieu!</p>
     <form id="logout" method="post" name="logout">
         <input type="submit" name="dologout" value="Quitter"/>
     </form>
