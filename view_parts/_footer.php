@@ -1,12 +1,12 @@
 <div id='footer_ag1'>
 
-        <p><?php echo"Trouver le forfait qui vous convient!" ?></p>
-        <p><?php echo"Nous Contacter"?></p>
+        <p><?php echo"<a href='" .$link_adress. "'>Trouver le forfait qui vous convient!</a>"; ?> '</p>'
+        <p><?php echo"<a href='" .$link_adress. "'>Nous contacter!</a>"; ?> '</p>'
 
 
 
-        <p><?php echo"Résiller l'abonnement" ?></p>
-        <p><?php echo"Conditions d'utilisation"?></p>
+        <p><?php echo"<a href='" .$link_adress. "'>Résilier l'abonnement</a>"; ?> '</p>'
+        <p><?php echo"<a href='" .$link_adress. "'>Conditions d'utilisation</a>"; ?> '</p>'
 
 
 
