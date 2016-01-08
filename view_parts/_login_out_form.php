@@ -28,7 +28,7 @@ if (array_key_exists('dologout', $_POST)) {
     <form id="login" method="post" name="login">
 
         <?php if ($error == true) { ?>
-            <p style="color: red">Connexion échouée</p>
+            <p style="color: red">Connexion échouée. Veuillez entrer un identifiant et un mot de passe valide</p>
         <?php } ?>
 
 

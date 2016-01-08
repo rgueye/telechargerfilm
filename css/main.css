@@ -3,7 +3,7 @@
 }
 
 #login{
-    text-align: right;
+    /*text-align: right;*/
     float: right;
     margin-top: 25px;
 }
@@ -24,12 +24,14 @@ body{
     border-style: solid;
     border-color: whitesmoke;
 }
-#logout{
-    text-align: right;
+/*#logout{*/
+    /*text-align: right;*/
 
-}
+/*}*/
 h1{
     display: inline-block;
+    border: groove;
+    border-color: antiquewhite;
 }
 
 #header_ag2{
