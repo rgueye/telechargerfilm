@@ -6,8 +6,6 @@ if (array_key_exists('username', $_POST) && array_key_exists('password', $_POST)
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-
-
     //C'est ici qu'on va venir dans la base de données que l'utilisateur existe
     if ($username == "dieu" && $password == "qwerty") {
         $_SESSION[USER_IS_LOGGED] = true;
