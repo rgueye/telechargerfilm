@@ -12,13 +12,3 @@
 
 </div>
 
-<div id='footer_ag2'>
-
-
-</div>
-
-<div id="footer_ag3">
-
-
-
-</div>
