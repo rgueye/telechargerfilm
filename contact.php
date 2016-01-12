@@ -6,7 +6,7 @@ require_once '_defines.php';
     ?>
 
     <div id="main">
-
+        <img src="images/film-slate.jpg">
 
     </div>
 

@@ -1,0 +1,61 @@
+body{
+    background-color: dimgray;
+}
+h2{
+   color: red;
+    text-align: center;
+
+}
+h1{
+    color: red;
+
+}
+li {
+    list-style: none;
+    color: white;
+    font-family: serif;
+}
+.bouton
+{width: 100px;
+
+}
+.lab1,.lab2,.lab3,.lab4,.lab5,.lab6,.lab7,.lab8
+{display: inline;
+    margin-left: 150px;
+    margin-top: -20px;
+
+}
+#lab1,#lab2{
+    display: inline;
+    margin-left: 150px;
+    margin-top: -20px;
+}
+#mastercard {
+    width: 30px;
+}
+#visa {
+    width: 40px;
+}
+#ras {
+    width: 50px;
+}
+fieldset{
+    width: 400px;
+
+}
+h4{
+   text-align: right;
+
+}
+
+#text {
+    text-align: center;
+}
+fieldset {
+    margin: 0 auto;
+    width: 450px;
+
+}
+#ins {
+    text-align: right;
+}

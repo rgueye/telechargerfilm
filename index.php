@@ -6,7 +6,7 @@ require_once 'view_parts/_page_base.php';
 ?>
 
 <div id="main_ag">
-
+<img src="images/film-slate.jpg">
 </div>
 
 <?php

@@ -6,7 +6,7 @@
     <p><?php echo "<a href='" .LOCAL_URL.'/index.php'. "'>Accueil</a>"; ?> </p>
     <p><?php echo "<a href='" .LOCAL_URL.'/contact.php'. "'>Contact</a>"; ?> </p>
     <p><?php echo "<a href='" .LOCAL_URL.'/dashboard.php'."'>Nos films</a>"; ?> </p>
-    <p><?php echo "<a href='" .LOCAL_URL.'/inscription.php'. "'>Inscription</a>"; ?> </p>
+    <p><?php echo "<a href='" .LOCAL_URL.'/form.php'. "'>Inscription</a>"; ?> </p>
 
     <?php
     if ($site_data[USER_IS_LOGGED]) {?>
