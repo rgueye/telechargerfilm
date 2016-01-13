@@ -1,5 +1,6 @@
 * {
     list-style-type:none;
+    list-style: none;
 }
 
 #login{
@@ -7,6 +8,7 @@
     float: right;
     margin-top: 25px;
 }
+
 
 
 p{
@@ -39,8 +41,18 @@ h1{
     display: inline-block;
     margin-left: 100px;
 }
-#menu_ag{
+img{
+    width: 166px;
+    height: 236px;
+    display: inline-block;
+    text-align: center;
+    margin:15px;
+    margin-right: 17px;
+    display: inline-block;
+}
 
+#main_an{
+display: inline-block;
 }
 
 #footer_ag1{
