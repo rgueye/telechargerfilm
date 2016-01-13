@@ -33,8 +33,9 @@ body{
 }
 h1{
     display: inline-block;
-    border: groove;
+    /*border: groove;*/
     border-color: antiquewhite;
+    margin-left: 10px;
 }
 
 #header_ag2{

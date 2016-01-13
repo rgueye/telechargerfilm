@@ -3,7 +3,7 @@
 $donnees = array( 'icone' => '<img src="images/image animation/11356.jpg">')
 ?>
 <!DOCTYPE html >
-<html lang = "en" >
+<html lang = "fr" >
 <head >
     <meta charset = "UTF-8" >
     <title > Fichier HTML </title>

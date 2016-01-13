@@ -38,7 +38,7 @@ $donnees = array(
 <head>
     <link rel="stylesheet" type="text/css" href="css/main.css"/>
     <meta charset="UTF-8">
-    <title>action et aventure</title>
+    <title>Action et aventure</title>
 
 
 </head>

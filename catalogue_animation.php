@@ -89,7 +89,7 @@ $donnees = array(
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <link rel="stylesheet" type="text/css" href="css/main.css"/>
     <meta charset="UTF-8">
