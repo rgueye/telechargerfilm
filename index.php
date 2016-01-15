@@ -6,6 +6,8 @@ require_once 'view_parts/_page_base.php';
 ?>
 
 <div id="main_an">
+    <?php echo "Action" ?>
+    <?php echo "Animation" ?>
     <?php require_once "catalogue_action.php"?>
     <?php require_once "catalogue_animation.php"?>
 <!--<img src="images/film-slate.jpg">-->
