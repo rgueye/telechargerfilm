@@ -1,6 +1,6 @@
 
 <?php
-$donnees = array( 'icone' => '<img src="images/image animation/11356.jpg">')
+$donnees = array( 'source' => 'images/image animation/11356.jpg')
 ?>
 <!DOCTYPE html >
 <html lang = "fr" >
